@@ -13,4 +13,4 @@ Some of the projects include:
 4) Logistic Regression
 5) Clustering: Grouping similar data points using k-means clustering
 6) Bias Variance
-
+7) More on the way
